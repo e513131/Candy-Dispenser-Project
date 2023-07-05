@@ -1,2 +1,2 @@
 # Candy-Dispenser-Project
-Uses a Raspberry Pi and Arduino to run candy dispenser when user says "trick or treat"
+Code for PLTW Engineering Design and Development candy dispenser project. Dispenses candy to trick or treaters when the device detects the words "trick or treat" from users.
